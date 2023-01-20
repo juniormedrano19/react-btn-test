@@ -1,6 +1,6 @@
 # React Button Test
 
-![N|Solid](https://ibb.co/1RySM39)
+![N|Solid](https://i.ibb.co/kqbdJph/suiza-soft-Icon.png)
 
 Button Genérico creado por la empresa SUIZA SOFT.
 
